@@ -11,9 +11,10 @@
 #div__segunda {
   position: absolute;
   display: flex;
-  width: 100%;
+  width: 50%;
   align-items: center;
   padding: 20px;
+  margin-left: 70px;
 }
 
 #div__terceira {
